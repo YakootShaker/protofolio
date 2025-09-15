@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "yakoot537@gmail.com",
-    linkedin: "www.linkedin.com/in/yakoot-shaker-a64ba6296",
+    linkedin: "https://www.linkedin.com/in/yakoot-shaker-a64ba6296/",
     twitter: "https://x.com",
     github: "https://github.com/YakootShaker",
   },
@@ -48,13 +48,13 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+       title: "Computer Science Student",
+    company: "Alexandria National University",
+    date: "2022 - Present",
+    description: [
+      "Studying AI, Neural Networks, Machine Learning, and Smart Systems.",
+      "Building academic and side projects (Bookstore, Recommender System, etc.).",
+  
       ],
     },
     {
