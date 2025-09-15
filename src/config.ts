@@ -70,18 +70,16 @@ bullets: [
   ],
   education: [
     {
-    school: "Alexandria National University",
-degree: "Bachelor of Science in Computer Science",
-dateRange: "2022 - 2026 (expected)",
-achievements: [
-  "Focused on Intelligent Systems, Machine Learning, and Data Mining",
-  "Active member in tech-related projects and collaborative research",
-  "Maintaining strong academic performance in core CS subjects"
-      ],
-    },
+  education: [
     {
-    
+      school: "Alexandria National University",
+      degree: "Bachelor of Science in Computer Science",
+      dateRange: "2022 - 2026 (expected)",
+      achievements: [
+        "Focused on Intelligent Systems, Machine Learning, and Data Mining",
+        "Active member in tech-related projects and collaborative research",
+        "Maintaining strong academic performance in core CS subjects"
       ],
-    },
+    }
   ],
 };
