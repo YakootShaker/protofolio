@@ -48,16 +48,6 @@ export const siteConfig = {
       ],
     },
     {
-       title: "Computer Science Student",
-    company: "Alexandria National University",
-    date: "2022 - Present",
-    description: [
-      "Studying AI, Neural Networks, Machine Learning, and Smart Systems.",
-      "Building academic and side projects (Bookstore, Recommender System, etc.).",
-  
-      ],
-    },
-    {
       company: "NTI (National Telecommunication Institute)",
       title: "Machine Learning Trainee",
       dateRange: "Aug 2025 - Sep 2025",
@@ -65,6 +55,16 @@ export const siteConfig = {
         "Completed intensive Machine Learning course covering supervised and unsupervised learning, model evaluation, and feature engineering",
         "Implemented hands-on projects using Python, Scikit-learn, and Pandas",
         "Strengthened foundation in algorithms, data preprocessing, and evaluation metrics",
+      ],
+    },
+    {
+      company: "Alexandria National University",
+      title: "Computer Science Student",
+      dateRange: "2022 - Present",
+      bullets: [
+        "Studying AI, Neural Networks, Machine Learning, and Smart Systems.",
+        "Building academic and side projects (Bookstore, Recommender System, etc.).",
+        "Maintaining strong academic performance in core CS subjects.",
       ],
     },
   ],
