@@ -15,10 +15,10 @@ export const siteConfig = {
   projects: [
     {
       name: "Knowledge-Based Restaurant Recommender System",
-  description:
-    "A smart recommender system built using the Zomato Restaurants Dataset. Designed to suggest restaurants based on user preferences, leveraging knowledge-based filtering and an interactive Streamlit interface.",
-  link: "https://github.com/omar-El-Baz/Knowledge-Based-Restaurant-Recommender-System",
-  skills: ["Python", "Streamlit", "Machine Learning", "Data Mining"]
+      description:
+        "A smart recommender system built using the Zomato Restaurants Dataset. Designed to suggest restaurants based on user preferences, leveraging knowledge-based filtering and an interactive Streamlit interface.",
+      link: "https://github.com/omar-El-Baz/Knowledge-Based-Restaurant-Recommender-System",
+      skills: ["Python", "Streamlit", "Machine Learning", "Data Mining"],
     },
     {
       name: "Folium-Country-Visualizer",
@@ -38,13 +38,13 @@ export const siteConfig = {
   experience: [
     {
       company: "Digital Egypt Pioneers Initiative (DEPI)",
-  title: "Data Engineering Trainee",
-  dateRange: "2024 - Present",
-  bullets: [
-    "Completed hands-on training in Data Engineering with a focus on ETL pipelines, data modeling, and cloud-based architectures.",
-    "Worked with SQL, Python, and big data tools to design and optimize data workflows.",
-    "Built scalable data pipelines to collect, process, and transform datasets for analytics and machine learning applications.",
-    "Collaborated in team projects simulating real-world data engineering scenarios."
+      title: "Data Engineering Trainee",
+      dateRange: "2024 - Present",
+      bullets: [
+        "Completed hands-on training in Data Engineering with a focus on ETL pipelines, data modeling, and cloud-based architectures.",
+        "Worked with SQL, Python, and big data tools to design and optimize data workflows.",
+        "Built scalable data pipelines to collect, process, and transform datasets for analytics and machine learning applications.",
+        "Collaborated in team projects simulating real-world data engineering scenarios.",
       ],
     },
     {
@@ -58,18 +58,16 @@ export const siteConfig = {
       ],
     },
     {
-    company: "NTI (National Telecommunication Institute)",
-title: "Machine Learning Trainee",
-dateRange: "Aug 2025 - Sep 2025",
-bullets: [
-  "Completed intensive Machine Learning course covering supervised and unsupervised learning, model evaluation, and feature engineering",
-  "Implemented hands-on projects using Python, Scikit-learn, and Pandas",
-  "Strengthened foundation in algorithms, data preprocessing, and evaluation metrics"
+      company: "NTI (National Telecommunication Institute)",
+      title: "Machine Learning Trainee",
+      dateRange: "Aug 2025 - Sep 2025",
+      bullets: [
+        "Completed intensive Machine Learning course covering supervised and unsupervised learning, model evaluation, and feature engineering",
+        "Implemented hands-on projects using Python, Scikit-learn, and Pandas",
+        "Strengthened foundation in algorithms, data preprocessing, and evaluation metrics",
       ],
     },
   ],
-  education: [
-    {
   education: [
     {
       school: "Alexandria National University",
@@ -78,8 +76,8 @@ bullets: [
       achievements: [
         "Focused on Intelligent Systems, Machine Learning, and Data Mining",
         "Active member in tech-related projects and collaborative research",
-        "Maintaining strong academic performance in core CS subjects"
+        "Maintaining strong academic performance in core CS subjects",
       ],
-    }
+    },
   ],
 };
